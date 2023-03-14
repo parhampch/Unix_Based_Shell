@@ -1,0 +1,2 @@
+# Unix_Based_Shell
+In this project, I implemented a shell based on the Unix. The shell works in two interactive and bash modes. In interactive mode, the shell gets an input line from the user and after checking it for the correct format and extracting elements of the command, it executes it. In bash mode, the shell does the same thing for all of the lines of an input file. In both modes, you can execute parallel commands by separating them with ';'.
